@@ -37,3 +37,5 @@ If you open a browser to http://localhost:9874/people, you will see data from th
 
 To stop the service, press "Ctrl+C" in the terminal.
 
+## Articles and Resources  
+* [Running a .NET 6 Service on a Specific Port](https://jeremybytes.blogspot.com/2021/11/running-net-6-service-on-specific-port.html) by Jeremy Clark
